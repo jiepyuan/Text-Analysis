@@ -207,7 +207,7 @@ Each model folder follows the same organizational logic as the lexicon-based lon
 ## Simplified directory tree
 
 ```text
-Text Analalysis Tutorial Code/
+Text-Analysis/
 |-- sentiment extraction and data aggregation/
 |   |-- lexicon/
 |   |   |-- afinn/
